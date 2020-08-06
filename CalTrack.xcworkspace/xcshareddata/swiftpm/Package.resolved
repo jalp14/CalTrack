@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SlideOverCard",
+        "repositoryURL": "https://github.com/moifort/swiftUI-slide-over-card.git",
+        "state": {
+          "branch": null,
+          "revision": "9fdc77c16d639d80a789daad0e036a24faf00825",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

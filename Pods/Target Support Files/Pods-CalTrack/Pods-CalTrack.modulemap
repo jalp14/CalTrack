@@ -1,0 +1,6 @@
+framework module Pods_CalTrack {
+  umbrella header "Pods-CalTrack-umbrella.h"
+
+  export *
+  module * { export * }
+}
