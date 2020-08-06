@@ -23,6 +23,13 @@ An iOS app that let's you track your food calories
 
 * Support for Light/Dark mode
 
+# Instruction #
+The app won't run out of the box. You will need to configure two things 
+
+* Create a Firebase project, set it up, download the GoogleServices file(.plist) and copy it to the project
+* Signup for Nutrionix API key and copy the API key and App-ID key to NetworkManager.swift file
+
+
 # Screenshots #
 
 <img src="welcome message.png" width="40%">
